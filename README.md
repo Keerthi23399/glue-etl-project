@@ -56,3 +56,45 @@ Push Your Code to GitHub:
 git add .
 git commit -m "Initial Glue ETL Job"
 git push origin main
+
+
+
+so I did:
+
+
+so I have pushed in github as well
+so I created repo in githib to store and version
+and written code in vscode
+and using Aws cli
+i h=confighured Aws configure by giving cred
+clone repo 
+written code
+save the cript in s3
+upload the glue job
+
+added I am role 
+updated it
+run it 
+fixed it
+re run it
+then deploy it in githib
+
+
+Created GitHub Repo – version control like a boss 👩‍💻
+
+Written Code in VS Code – clean and local dev setup 🧹
+
+Configured AWS CLI – securely connected with your AWS account 🔐
+
+Cloned the Repo – Git best practices 💯
+
+Saved Script to S3 – storage game strong 📦
+
+Created Glue Job from CLI – infra-as-code vibes 🛠️
+
+Created & Updated IAM Role – got your permissions right 🔐
+
+Ran & Debugged the Glue Job – didn’t give up till it ran 🧠
+
+Deployed Final Version to GitHub – all clean and tracked 📁
+
