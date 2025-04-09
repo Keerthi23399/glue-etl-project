@@ -1,0 +1,10 @@
+{
+    "Role": "arn:aws:iam::588738603076:role/MyGlueETLRole",
+    "Command": {
+      "Name": "glueetl",
+      "ScriptLocation": "s3://script-glue-etl/glue-job.py",
+      "PythonVersion": "3"
+    },
+    "GlueVersion": "3.0"
+  }
+  

@@ -1,0 +1,5 @@
+{
+    "Name": "glueetl",
+    "ScriptLocation": "s3://script-glue-etl/glue-job.py",
+    "PythonVersion": "3"
+  }  
